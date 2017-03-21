@@ -3,6 +3,27 @@ h1 {
 }
 
 .panel-body {
-  margin: 20px;
+  margin: 50px;
   height: 150px;
 }
+
+#def{
+  display: none;
+}
+ 
+}
+/*.showing {
+display: none;
+
+}*/
+
+/*.clickable {
+  cursor: pointer;
+  color: blue;
+
+}
+
+
+.clickable:hover {
+    text-decoration: underline;
+}*/
